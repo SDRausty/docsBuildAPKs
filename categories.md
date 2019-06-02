@@ -1,0 +1,37 @@
+art_and_design
+auto_and_vehicles
+beauty
+books_and_reference
+business
+comics
+communication
+dating
+education
+	courses
+	tutorials
+entertainment
+events
+finance
+food_and_drink
+games
+health_and_fitness
+house_and_home
+libraries_and_demo
+	samples
+lifestyle
+maps_and_navigation
+medical
+music_and_audio
+news_and_magazines
+other
+parenting
+personalization
+photography
+productivity
+shopping
+social
+sports
+tools
+travel_and_local
+video_players
+weather

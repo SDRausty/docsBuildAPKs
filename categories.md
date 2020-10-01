@@ -35,3 +35,23 @@ tools
 travel_and_local
 video_players
 weather
+Tools 
+Communication 
+Video players and editing 
+Travel and local 
+Social media apps 
+Productivity 
+Music 
+Entertainment 
+News 
+Photography 
+Books 
+Lifestyle 
+Personalization 
+Business
+Shopping apps 
+Weather 
+Sports 
+Education 
+Finance 
+Health 

@@ -17,7 +17,7 @@ In order to build these apps, the following programs need to be used. After fini
 If you want to install `aapt`, you will use `packages install aapt`. Before installing any packages, you should use `apt update && apt upgrade`. You can install all of them at once by executing:
 
 ```
-packages install aapt apksigner dx ecj
+pkg install aapt apksigner dx ecj
 ```
 
 Fortunately, these commands work in Termux. The popular compilers `jack` and `java` do not work at present. They are stuck in [disabled packages](https://github.com/termux/termux-packages/tree/master/disabled-packages), not in [packages](https://github.com/termux/termux-packages/tree/master/packages) that you can install on the fly. There is active discussion regarding why `jack` is stuck [here](https://github.com/termux/termux-packages/issues?utf8=✓&q=is%3Aissue%20%20jack), and why `java` is stranded [there.](https://github.com/termux/termux-packages/issues?utf8=✓&q=is%3Aissue%20%20java)
